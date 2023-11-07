@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/GalleryMvvmFragment">
+    <fragment
+        android:id="@+id/GalleryMvpFragment"
+        android:name="com.example.architecture.mvp.GalleryMVPFragment"
+        android:label="GalleryMvpFragment" />
+    <fragment
+        android:id="@+id/GalleryMvvmFragment"
+        android:name="com.example.architecture.mvvm.GalleryMVVMFragment"
+        android:label="GalleryMvvmFragment" />
+
+</navigation>

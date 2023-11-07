@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Architecture</string>
+    <string name="photo_1">Mountains</string>
+    <string name="photo_2">Forest</string>
+    <string name="photo_3">Desert</string>
+    <string name="photo_4">Lake</string>
+    <string name="photo_5">Island</string>
+    <string name="desc_1">White Mountains</string>
+    <string name="desc_2">Green Forest</string>
+    <string name="desc_3">Hot Desert</string>
+    <string name="desc_4">Blue Lake</string>
+    <string name="desc_5">Big Island</string>
+</resources>
